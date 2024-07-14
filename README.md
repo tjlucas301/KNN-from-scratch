@@ -1,1 +1,1 @@
-In this project, I implemented a KNN (K-Nearest Neighbors) classifier from scratch on the famous Iris dataset using PySpark (Apache Spark Python API).  I achieved a final accuracy of 93.5% after finding an optimal K value of 10.
+In this project, I implemented a KNN (K-Nearest Neighbors) classifier from scratch on the famous Iris dataset using PySpark (Apache Spark Python API).  After testing my model on various K values using the train and validation dataset, I found 10 to be an optimal K value.  I then ran the model on my unseen test dataset and achieved 93.5% accuracy.
